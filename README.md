@@ -66,22 +66,11 @@ Handled **high-dimensional data**, applied **SMOTE for class imbalance**, perfor
 *(Upload these to `assets/` folder and update links)*
 
 ### 1. Feature Correlation Heatmaps
-![Correlation with Expenses](assets/correlation_expenses.png)  
+![Correlation with Expenses](correlation_expenses.png)  
 *Top 20 features correlated with total medical expenses*
 
 ![Correlation with Utilization](assets/correlation_utilization.png)  
 *Top 20 features correlated with utilization*
-
-### 2. Model Performance Comparison
-![Regression Models](assets/regression_comparison.png)  
-*XGBoost achieves lowest RMSE*
-
-![Classification Models](assets/classification_comparison.png)  
-*SVM achieves highest accuracy*
-
-### 3. SMOTE Impact
-![Before vs After SMOTE](assets/smote_impact.png)  
-*Balanced class distribution improves minority class recall*
 
 ---
 
