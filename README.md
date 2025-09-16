@@ -66,10 +66,10 @@ Handled **high-dimensional data**, applied **SMOTE for class imbalance**, perfor
 *(Upload these to `assets/` folder and update links)*
 
 ### 1. Feature Correlation Heatmaps
-![Correlation with Expenses](correlation_matrix expenses.png)  
+![Correlation with Expenses](correlation_matrix_expenses.png)  
 *Top 20 features correlated with total medical expenses*
 
-![Correlation with Utilization](correlation_matrix utilization.png)  
+![Correlation with Utilization](correlation_matrix_utilization.png)  
 *Top 20 features correlated with utilization*
 
 ---
